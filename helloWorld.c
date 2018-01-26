@@ -1,5 +1,5 @@
 /*
-Description: This program prints "Hello World!!!"
+Description: This program prints "Isaac Klar"
 Author: Isaac Klar
 Date: 01/26/2018
 */
