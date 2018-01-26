@@ -1,6 +1,6 @@
 /*
 Description: This program prints "Isaac Klar"
-Author: Isaac Klar
+Author: Isaac Klar - Daniel Andrews
 Date: 01/26/2018
 */
 
@@ -9,7 +9,7 @@ Date: 01/26/2018
 
 int main(int argc, char **argv)
 {
-printf("Isaac Klar\n");
+printf("Isaac Klar and Daniel Andrews\n");
 
 return 0;
 }
